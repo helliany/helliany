@@ -3,8 +3,8 @@
 #### I'm a Frontend Developer working in Saint Petersburg
 
 ## Contacts:
-### :email: Email: ol.yurmanova@gmail.com
-### :pen: Telegram: https://t.me/helliany
+#### :email: Email: ol.yurmanova@gmail.com
+#### :pen: Telegram: https://t.me/helliany
 
 <!--
 **helliany/helliany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
