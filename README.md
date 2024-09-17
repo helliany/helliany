@@ -4,7 +4,7 @@
 
 ## Contacts:
 #### :email: Email: ol.yurmanova@gmail.com
-#### :pen: Telegram: https://t.me/helliany
+#### :pen: Telegram: https://t.me/olyurm
 
 ## Technologies:
 ![](https://img.shields.io/badge/-React-%232c3647?logo=react)
